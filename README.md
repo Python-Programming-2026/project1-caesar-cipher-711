@@ -49,6 +49,8 @@ Mjqqt, Btwqi
 
 解密后的明文为：
 Hello, World
+现实实例如图
+<img width="1859" height="1510" alt="微信图片_20260316223534" src="https://github.com/user-attachments/assets/eba6b990-b910-47f8-aa15-07e705ed8e77" />
 代码结构说明
 项目主要包含两个核心部分：
 1 核心函数
@@ -75,3 +77,5 @@ x 表示字母在字母表中的位置
 k 表示密钥
 解密：
 D(x) = (x - k) mod 26
+滕冠羽 2242316011 和
+方家骏 2243313542
