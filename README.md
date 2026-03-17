@@ -1,4 +1,3 @@
-```markdown
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/fPQK30A4)
 
 # 说明文档
@@ -40,33 +39,27 @@
 
 ### 1. 加密示例
 
-```
 
 === 凯撒密码工具 ===
-请选择模式：A=加密  B=解密：A
+请选择模式：A=加密 B=解密：A
 请输入密钥（整数）：5
 请输入明文：Hello, World
 
 加密后的密文为：
 Mjqqt, Btwqi
 
-```
-
----
 
 ### 2. 解密示例
 
-```
 
 === 凯撒密码工具 ===
-请选择模式：A=加密  B=解密：B
+请选择模式：A=加密 B=解密：B
 请输入密钥（整数）：5
 请输入密文：Mjqqt, Btwqi
 
 解密后的明文为：
 Hello, World
 
-```
 
 ---
 
@@ -97,8 +90,6 @@ Hello, World
 | key      | 加密密钥         |
 | decrypt  | 是否为解密模式   |
 
----
-
 ### 2. 主程序
 
 **函数名：** `main()`
@@ -114,19 +105,15 @@ Hello, World
 
 ### 加密公式
 
-```
 
 E(x) = (x + k) mod 26
 
-```
 
 ### 解密公式
 
-```
 
 D(x) = (x - k) mod 26
 
-```
 
 **说明：**
 
@@ -139,8 +126,4 @@ D(x) = (x - k) mod 26
 
 - 滕冠羽 2242316011  
 - 方家骏 2243313542
-```
 
-D(x) = (x - k) mod 26
-滕冠羽 2242316011 和
-方家骏 2243313542
