@@ -127,3 +127,7 @@ D(x) = (x - k) mod 26
 - 滕冠羽 2242316011  
 - 方家骏 2243313542
 
+视频如下
+https://github.com/user-attachments/assets/0ab73939-4dc2-49b6-9d0a-b204949bba82
+
+
